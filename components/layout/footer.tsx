@@ -14,8 +14,7 @@ export default function Footer() {
               </span>
             </Link>
             <p className="text-muted-foreground max-w-xs">
-              Transforming businesses through strategic HR solutions and expert
-              consultancy services.
+              Transforming businesses through Strategic Finance and HR Solutions.
             </p>
             <div className="flex space-x-4">
               <Link
