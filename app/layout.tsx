@@ -17,7 +17,7 @@ const playfair = Playfair_Display({
 
 export const metadata: Metadata = {
     title: 'DevenSun Consultants', 
-  description: 'Professional HR solutions for modern businesses',
+  description: 'Professional Finance & HR solutions for modern businesses',
   
 };
 
